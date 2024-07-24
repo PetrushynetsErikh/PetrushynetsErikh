@@ -1,7 +1,7 @@
 ![Header](./icons/github-header-image.png)
 
 ## ✨ About  ✨
-### I am a passionate and motivated individual with a deep interest in programming and data engineering. I specialize in innovative and swift problem-solving, with a keen eye for detail to ensure high quality in my work.
+#### I am a passionate and motivated individual with a deep interest in programming and data engineering. I specialize in innovative and swift problem-solving, with a keen eye for detail to ensure high quality in my work.
 
 ## ⌨️ Tech Stack 🖱️
 <div align="left" >
@@ -21,10 +21,10 @@
 ## 📱 Social Media 📰
 <div align="left">
   <a href="www.linkedin.com/in/erikh-petrushynets-40188b201" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/erikhpetrushynets/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="instagram logo"  />
   </a>
 </div>
 
