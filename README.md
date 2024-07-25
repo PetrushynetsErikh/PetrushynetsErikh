@@ -3,7 +3,7 @@
 <h2 style="color: #BA0C2F; font-weight: normal; margin: 0 20px;">About</h2>
 
 <div style="margin: 0 20px; font-size: 1.1em; line-height: 1.6;">
-  I am a passionate and motivated individual with a deep interest in programming and <strong>data engineering</strong>. 
+  I am a passionate and motivated individual with a deep interest in programming and <strong>data engineering</strong>.
 
   My fascination with technology drives me to constantly explore new methodologies and tools. 
   
