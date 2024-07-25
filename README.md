@@ -4,13 +4,13 @@
 
 <div style="margin: 0 20px; font-size: 1.1em; line-height: 1.6;">
   I am a passionate and motivated individual with a deep interest in programming and <strong>data engineering</strong>.
-
+  
   My fascination with technology drives me to constantly explore new methodologies and tools. 
   
   I specialize in <strong>innovative and swift problem-solving</strong>, leveraging my analytical skills to develop <strong>efficient and scalable solutions</strong>. 
   
   With a sharp attention to detail, I ensure that <strong>code is clean, optimized, and maintainable</strong>, adhering to best practices and industry standards.
-    
+  
   I thrive on exploring new technologies and tools, continuously refining my skills.
 </div>
 
