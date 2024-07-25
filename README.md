@@ -1,7 +1,6 @@
 ![Header](./icons/github-header-image.png)
 
 <h2 style="color: #BA0C2F; font-weight: normal; margin: 0 20px;">About</h2>
-<hr style="border: none; height: 3px; background-color: #00205B; margin: 10px 0 20px;">
 
 <div style="margin: 0 20px; font-size: 1.1em; line-height: 1.6;">
   I am a passionate and motivated individual with a deep interest in programming and <strong>data engineering</strong>. 
@@ -18,7 +17,6 @@
 <hr style="border: none; height: 3px; background-color: #00205B; margin: 20px 0 10px;">
 
 <h2 style="color: #BA0C2F; font-weight: normal; margin: 0 20px;">Technologies</h2>
-<hr style="border: none; height: 3px; background-color: #00205B; margin: 20px 0;">
 
 <div align="left" style="margin: 0 20px;">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -45,7 +43,6 @@
 <hr style="border: none; height: 3px; background-color: #00205B; margin: 15px 0;">
 
 <h2 style="color: #BA0C2F; font-weight: normal; margin: 0 20px;">Connect with Me</h2>
-<hr style="border: none; height: 3px; background-color: #00205B; margin: 20px 0;">
 
 <div style="margin: 0 20px;">
   <a href="https://www.linkedin.com/in/erikh-petrushynets-40188b201">
